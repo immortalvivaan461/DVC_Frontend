@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "name": "TURMERIC",
+    "category": "spices",
+    "price": 103,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772872/s1_oxuosb.png"
+  },
+  {
+    "id": 2,
+    "name": "CUMIN",
+    "category": "spices",
+    "price": 120,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772872/s2_tnpjff.png"
+  },
+  {
+    "id": 3,
+    "name": "GREEN CARDAMOM",
+    "category": "spices",
+    "price": 900,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772873/s3_w1xyg5.png"
+  },
+  {
+    "id": 4,
+    "name": "CORIANDER",
+    "category": "spices",
+    "price": 80,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772874/s4_ddfyv8.png"
+  },
+  {
+    "id": 5,
+    "name": "GARAM MASALA",
+    "category": "spices",
+    "price": 140,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772874/s5_ac7ueo.png"
+  },
+  {
+    "id": 6,
+    "name": "BLACK CARDAMOM",
+    "category": "spices",
+    "price": 250,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772875/s6_zkhal6.png"
+  },
+  {
+    "id": 7,
+    "name": "ASAFOETIDA",
+    "category": "spices",
+    "price": 250,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772876/s7_xudbj6.png"
+  },
+  {
+    "id": 8,
+    "name": "FENUGREEK SEED",
+    "category": "spices",
+    "price": 110,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772877/s8_rgprfz.png"
+  },
+  {
+    "id": 9,
+    "name": "DRY MANGO POWDER",
+    "category": "spices",
+    "price": 130,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772878/s9_w6atf9.png"
+  },
+  {
+    "id": 10,
+    "name": "INDIAN BAY LEAF",
+    "category": "spices",
+    "price": 90,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772879/s10_eveunu.png"
+  },
+  {
+    "id": 11,
+    "name": "CINNAMON/ CASSIA BARK",
+    "category": "spices",
+    "price": 350,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772880/s11_acj1lu.png"
+  },
+  {
+    "id": 12,
+    "name": "FENNEL",
+    "category": "spices",
+    "price": 160,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772881/s12_frjqar.png"
+  },
+  {
+    "id": 13,
+    "name": "BLACK PEPPER",
+    "category": "spices",
+    "price": 240,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772881/s13_d1vkhr.png"
+  },
+  {
+    "id": 14,
+    "name": "RED CHILI POWDER",
+    "category": "spices",
+    "price": 120,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772883/s14_d6gpv4.png"
+  },
+  {
+    "id": 15,
+    "name": "CURRY LEAVES",
+    "category": "spices",
+    "price": 60,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772884/s15_zvudhh.png"
+  },
+  {
+    "id": 16,
+    "name": "DRY RED CHILI",
+    "category": "spices",
+    "price": 130,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772885/s16_cedl5a.png"
+  },
+  {
+    "id": 17,
+    "name": "BESIL SEED",
+    "category": "spices",
+    "price": 70,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772886/s17_n31g35.png"
+  },
+  {
+    "id": 18,
+    "name": "DRY BESIL LEAF",
+    "category": "spices",
+    "price": 80,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772887/s18_l8pujz.png"
+  },
+  {
+    "id": 19,
+    "name": "BIG MUSTARD SEED",
+    "category": "spices",
+    "price": 90,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772889/s19_lrv4mh.png"
+  },
+  {
+    "id": 20,
+    "name": "BLACK SALT",
+    "category": "spices",
+    "price": 20,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772890/s20_s3hnjv.png"
+  },
+  {
+    "id": 21,
+    "name": "CARAWAY SEED",
+    "category": "spices",
+    "price": 130,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772891/s21_yxdfqf.png"
+  },
+  {
+    "id": 22,
+    "name": "DRY GINGER",
+    "category": "spices",
+    "price": 90,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772892/s22_ft2uwx.png"
+  },
+  {
+    "id": 23,
+    "name": "DRY FENUGREEK LEAVES",
+    "category": "spices",
+    "price": 70,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772894/s23_qrvwnk.png"
+  },
+  {
+    "id": 24,
+    "name": "GARLIC",
+    "category": "spices",
+    "price": 95,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772895/s24_fny4wy.png"
+  },
+  {
+    "id": 25,
+    "name": "MINT",
+    "category": "spices",
+    "price": 40,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772896/s25_eu4egy.png"
+  },
+  {
+    "id": 26,
+    "name": "ONION SEED NEGELLA",
+    "category": "spices",
+    "price": 150,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772898/s26_xenlpu.png"
+  },
+  {
+    "id": 27,
+    "name": "RAISINS",
+    "category": "spices",
+    "price": 300,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772899/s27_fznvpu.png"
+  },
+  {
+    "id": 28,
+    "name": "ROCK SALT",
+    "category": "spices",
+    "price": 50,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772900/s28_ecqla6.png"
+  },
+  {
+    "id": 29,
+    "name": "SESAME SEED",
+    "category": "spices",
+    "price": 110,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772901/s29_xopdlu.png"
+  },
+  {
+    "id": 30,
+    "name": "SAFFRON",
+    "category": "spices",
+    "price": 1500,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772903/s30_wwtfi8.png"
+  },
+  {
+    "id": 31,
+    "name": "SCREWPINE PANDANUS",
+    "category": "spices",
+    "price": 80,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772904/s31_adoptc.png"
+  },
+  {
+    "id": 32,
+    "name": "SAULTANAS",
+    "category": "spices",
+    "price": 250,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772906/s32_fjuhdp.png"
+  },
+  {
+    "id": 33,
+    "name": "SICHUAN PEPPER",
+    "category": "spices",
+    "price": 300,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772907/s33_bepuwl.png"
+  }
+]

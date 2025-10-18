@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "name": "MANGOES",
+    "category": "FRUITS",
+    "price": 80,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772803/s1_id16wi.png"
+  },
+  {
+    "id": 2,
+    "name": "POMEGRANATE",
+    "category": "FRUITS",
+    "price": 83,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772804/s2_sieprr.png"
+  },
+  {
+    "id": 3,
+    "name": "ORANGE",
+    "category": "FRUITS",
+    "price": 98,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772804/s3_ln6ja0.png"
+  },
+  {
+    "id": 4,
+    "name": "MANDARIN",
+    "category": "FRUITS",
+    "price": 98,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772804/s4_vzxdne.png"
+  },
+  {
+    "id": 5,
+    "name": "APPLE",
+    "category": "FRUITS",
+    "price": 57,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772804/s5_sh9x0z.png"
+  },
+  {
+    "id": 6,
+    "name": "WATER MELON",
+    "category": "FRUITS",
+    "price": 26,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772804/s6_wcqak8.png"
+  },
+  {
+    "id": 7,
+    "name": "MUSK MELON",
+    "category": "FRUITS",
+    "price": 30,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772805/s7_ihsuxx.png"
+  },
+  {
+    "id": 8,
+    "name": "CHERRY",
+    "category": "FRUITS",
+    "price": 300,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772804/s8_hemzs3.png"
+  },
+  {
+    "id": 9,
+    "name": "PLUM",
+    "category": "FRUITS",
+    "price": 114,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772805/s9_leoqna.png"
+  },
+  {
+    "id": 10,
+    "name": "LITCHI",
+    "category": "FRUITS",
+    "price": 100,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772806/s10_tdbo0h.png"
+  },
+  {
+    "id": 11,
+    "name": "PEAR",
+    "category": "FRUITS",
+    "price": 120,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772807/s11_gwpbrq.png"
+  },
+  {
+    "id": 12,
+    "name": "GRAPES",
+    "category": "FRUITS",
+    "price": 368,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772808/s12_rlohf5.png"
+  },
+  {
+    "id": 13,
+    "name": "PINEAPPLE",
+    "category": "FRUITS",
+    "price": 60,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772809/s13_ce7lfh.png"
+  },
+  {
+    "id": 14,
+    "name": "PAPAYA",
+    "category": "FRUITS",
+    "price": 56,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772810/s14_qk29th.png"
+  },
+  {
+    "id": 15,
+    "name": "PEACH",
+    "category": "FRUITS",
+    "price": 150,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772811/s15_gapcgb.png"
+  },
+  {
+    "id": 16,
+    "name": "SWEET LEMON",
+    "category": "FRUITS",
+    "price": 50,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772812/s16_la6dqp.png"
+  },
+  {
+    "id": 17,
+    "name": "GOOSE BERRY",
+    "category": "FRUITS",
+    "price": 90,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772812/s17_xz7xg1.png"
+  },
+  {
+    "id": 18,
+    "name": "LEMON",
+    "category": "FRUITS",
+    "price": 50,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772814/s18_sthfyo.png"
+  },
+  {
+    "id": 19,
+    "name": "GUAVA",
+    "category": "FRUITS",
+    "price": 124,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772815/s19_djgxkk.png"
+  },
+  {
+    "id": 20,
+    "name": "JAMUN",
+    "category": "FRUITS",
+    "price": 120,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772816/s20_i8curc.png"
+  },
+  {
+    "id": 21,
+    "name": "BANANA",
+    "category": "FRUITS",
+    "price": 56,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772817/s21_b7mfil.png"
+  },
+  {
+    "id": 22,
+    "name": "DATE",
+    "category": "FRUITS",
+    "price": 200,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772818/s22_oqdles.png"
+  },
+  {
+    "id": 23,
+    "name": "BLACK BERRY",
+    "category": "FRUITS",
+    "price": 220,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772820/s23_vt1p2k.png"
+  },
+  {
+    "id": 24,
+    "name": "COCONUT",
+    "category": "FRUITS",
+    "price": 42,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772821/s24_yj95lg.png"
+  },
+  {
+    "id": 25,
+    "name": "STAR FRUIT",
+    "category": "FRUITS",
+    "price": 120,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772823/s25_bm43tl.png"
+  },
+  {
+    "id": 26,
+    "name": "AVOCADO",
+    "category": "FRUITS",
+    "price": 200,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772824/s26_e4bll7.png"
+  },
+  {
+    "id": 27,
+    "name": "APRICOT",
+    "category": "FRUITS",
+    "price": 180,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772824/s27_hnhsew.png"
+  },
+  {
+    "id": 28,
+    "name": "CUSTARD APPLE",
+    "category": "FRUITS",
+    "price": 120,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772827/s28_ptvcj8.png"
+  },
+  {
+    "id": 29,
+    "name": "FIGS",
+    "category": "FRUITS",
+    "price": 160,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772827/s29_ssr0tw.png"
+  },
+  {
+    "id": 30,
+    "name": "INDIAN JUJUBES",
+    "category": "FRUITS",
+    "price": 80,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772827/s30_enpzlu.png"
+  },
+  {
+    "id": 31,
+    "name": "TAMARIND",
+    "category": "FRUITS",
+    "price": 140,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772829/s31_gr5uom.png"
+  },
+  {
+    "id": 32,
+    "name": "SAPOTA",
+    "category": "FRUITS",
+    "price": 114,
+    "image": "https://res.cloudinary.com/dfqqacmzv/image/upload/v1760772831/s32_heg3xt.png"
+  }
+]
